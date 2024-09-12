@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v0.1.0 (2024-09-12)
+
+### Feature
+
+* feat(mylibrary): add hello_world2 function ([`4eda24f`](https://github.com/deslisj/mylibrary/commit/4eda24f10c1ae155ed8d05e601c005d9fec146de))
+
 ## v0.0.1 (2024-09-12)
 
 ### Documentation
