@@ -1,7 +1,7 @@
-# Changelog
+# CHANGELOG
 
-<!--next-version-placeholder-->
+## v0.0.0 (2024-09-12)
 
-## v0.0.0 (10/09/2024)
+### Unknown
 
-- First release of `mylibrary`!
+* First commit ([`5efac80`](https://github.com/deslisj/mylibrary/commit/5efac803851d84f834838902e09475d1fe448da5))
